@@ -441,6 +441,7 @@ for ( i = 0; i < 100; i++ ) {
 -   <span class="package-name">[`@stdlib/random-array/laplace`][@stdlib/random/array/laplace]</span><span class="delimiter">: </span><span class="description">create an array containing pseudorandom numbers drawn from a Laplace (double exponential) distribution.</span>
 -   <span class="package-name">[`@stdlib/random-iter/laplace`][@stdlib/random/iter/laplace]</span><span class="delimiter">: </span><span class="description">create an iterator for generating pseudorandom numbers drawn from a Laplace distribution.</span>
 -   <span class="package-name">[`@stdlib/random-streams/laplace`][@stdlib/random/streams/laplace]</span><span class="delimiter">: </span><span class="description">create a readable stream for generating pseudorandom numbers drawn from a Laplace (double exponential) distribution.</span>
+-   <span class="package-name">[`@stdlib/random-laplace`][@stdlib/random/laplace]</span><span class="delimiter">: </span><span class="description">generate pseudorandom numbers drawn from a Laplace (double exponential) distribution.</span>
 
 </section>
 
@@ -529,6 +530,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/random/iter/laplace]: https://github.com/stdlib-js/random-iter-laplace
 
 [@stdlib/random/streams/laplace]: https://github.com/stdlib-js/random-streams-laplace
+
+[@stdlib/random/laplace]: https://github.com/stdlib-js/random-laplace
 
 <!-- </related-links> -->
 
